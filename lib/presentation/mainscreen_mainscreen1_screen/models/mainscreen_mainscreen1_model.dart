@@ -1,0 +1,1 @@
+class MainscreenMainscreen1Model {}

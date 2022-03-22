@@ -1,0 +1,1 @@
+class ZaccounFinishinput1Model {}

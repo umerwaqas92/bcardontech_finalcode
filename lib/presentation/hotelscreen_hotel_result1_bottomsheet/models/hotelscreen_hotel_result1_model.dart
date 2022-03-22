@@ -1,0 +1,1 @@
+class HotelscreenHotelResult1Model {}

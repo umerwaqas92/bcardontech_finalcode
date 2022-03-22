@@ -1,0 +1,1 @@
+class FlightscreenConfirm2Model {}
